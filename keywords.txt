@@ -1,0 +1,4 @@
+encoder KEYWORD1
+read_encoder KEYWORD2
+encoder_pin_count KEYWORD2
+
